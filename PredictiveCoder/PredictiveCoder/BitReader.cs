@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PredictiveCoder
 {
-    class BitReader
+    public class BitReader
     {
         private string fileName;
         private FileStream stream;

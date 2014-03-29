@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredictiveCoder", "PredictiveCoder\PredictiveCoder.csproj", "{A7455653-4B83-47BD-8D5B-E7D2E008C2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C8E9BE26-E5F5-4CB6-B232-4D70B25A6BB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{A7455653-4B83-47BD-8D5B-E7D2E008C2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7455653-4B83-47BD-8D5B-E7D2E008C2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7455653-4B83-47BD-8D5B-E7D2E008C2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8E9BE26-E5F5-4CB6-B232-4D70B25A6BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E9BE26-E5F5-4CB6-B232-4D70B25A6BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E9BE26-E5F5-4CB6-B232-4D70B25A6BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E9BE26-E5F5-4CB6-B232-4D70B25A6BB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
